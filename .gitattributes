@@ -1,2 +1,2 @@
 # Apply secblocks filter to all Markdown files
-*.md  filter=secblocks  diff=secblocks
+*.md  filter=secblocks
